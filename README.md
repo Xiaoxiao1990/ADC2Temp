@@ -1,1 +1,3 @@
 # ADC2Temp
+10K 3950 NTC测温程序。采用电阻分压模式，NTC接地端，10K定值电阻在VCC端。
+MCU:STM8S003F3
